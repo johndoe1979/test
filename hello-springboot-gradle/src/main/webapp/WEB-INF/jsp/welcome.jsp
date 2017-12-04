@@ -9,5 +9,6 @@
 <body>
 	<h1>Welcome to Spring Boot with Gradle</h1>
 	<h2>I hope you enjoy your stay</h2>
+	<h3>Best regards...</h3>
 </body>
 </html>
